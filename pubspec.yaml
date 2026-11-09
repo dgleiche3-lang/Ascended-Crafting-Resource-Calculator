@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  # Keine externen Pakete zwingend nötig, wir nutzen rein Flutter-Bordmittel!
+  
