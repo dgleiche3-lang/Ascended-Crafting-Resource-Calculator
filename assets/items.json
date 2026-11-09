@@ -1,0 +1,515 @@
+{
+  "name": "Metal Foundation",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 60,
+    "Cementing Paste": 15,
+    "Abyssal/Oil": 0
+  }
+},
+{
+  "name": "Metal Wall",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 25
+  }
+},
+{
+  "name": "Metal Ceiling",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 25
+  }
+},
+{
+  "name": "Metal Doorframe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 20
+  }
+},
+{
+  "name": "Metal Door",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 25,
+    "Polymer": 5
+  }
+},
+{
+  "name": "Metal Windowframe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 20
+  }
+},
+{
+  "name": "Metal Window",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 10,
+    "Crystal": 5
+  }
+},
+{
+  "name": "Metal Pillar",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 20
+  }
+},
+{
+  "name": "Metal Stairs",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 40,
+    "Cementing Paste": 10
+  }
+},
+{
+  "name": "Metal Hatchframe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 25
+  }
+},
+{
+  "name": "Metal Trapdoor",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 25,
+    "Polymer": 5
+  }
+},
+{
+  "name": "Metal Billboard",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 60,
+    "Wood": 80
+  }
+},
+{
+  "name": "Metal Pipe - Intake",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 15
+  }
+},
+{
+  "name": "Metal Pipe - Straight",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 5
+  }
+},
+{
+  "name": "Metal Pipe - Intersection",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 10
+  }
+},
+{
+  "name": "Metal Pipe - Tap",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 25
+  }
+},
+{
+  "name": "Metal Reservoir",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 75,
+    "Cementing Paste": 20,
+    "Polymer": 10
+  }
+},
+{
+  "name": "Metal Cliff Platform",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 1000,
+    "Cementing Paste": 300,
+    "Polymer": 200
+  }
+},
+{
+  "name": "Metal Tree Platform",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 1200,
+    "Cementing Paste": 400,
+    "Polymer": 300
+  }
+},
+{
+  "name": "Large Metal Wall",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 90
+  }
+},
+{
+  "name": "Metal Gate (Large)",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 150,
+    "Cementing Paste": 40,
+    "Polymer": 15
+  }
+},
+{
+  "name": "Large Metal Gateway",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 350,
+    "Cementing Paste": 90,
+    "Polymer": 30
+  }
+},
+{
+  "name": "Metal Gate",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 30,
+    "Cementing Paste": 10
+  }
+},
+{
+  "name": "Metal Gateway",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 50,
+    "Cementing Paste": 15
+  }
+},
+{
+  "name": "Auto Turret",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 100,
+    "Polymer": 20,
+    "Electronics": 10,
+    "Cementing Paste": 15
+  }
+},
+{
+  "name": "Heavy Auto Turret",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 500,
+    "Polymer": 150,
+    "Electronics": 100,
+    "Cementing Paste": 100
+  }
+},
+{
+  "name": "Tek Turret",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 800,
+    "Polymer": 300,
+    "Electronics": 200,
+    "Element": 20
+  }
+},
+{
+  "name": "Industrial Forge",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 2500,
+    "Polymer": 600,
+    "Crystal": 400,
+    "Oil": 400
+  }
+},
+{
+  "name": "Industrial Grinder",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 800,
+    "Crystal": 300,
+    "Oil": 250,
+    "Cementing Paste": 150
+  }
+},
+{
+  "name": "Industrial Cooker",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 250,
+    "Cementing Paste": 120,
+    "Oil": 100,
+    "Polymer": 50
+  }
+},
+{
+  "name": "Industrial Chemistry Bench",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 250,
+    "Cementing Paste": 150,
+    "Oil": 100,
+    "Polymer": 50,
+    "Crystal": 100
+  }
+},
+{
+  "name": "Industrial Generator",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 300,
+    "Electronics": 100,
+    "Polymer": 50
+  }
+},
+{
+  "name": "Industrial Safe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 250,
+    "Crystal": 60,
+    "Cementing Paste": 50
+  }
+},
+{
+  "name": "Industrial Grill",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 120,
+    "Oil": 40,
+    "Crystal": 30,
+    "Cementing Paste": 25
+  }
+},
+{
+  "name": "Stone Foundation",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 80,
+    "Wood": 30,
+    "Thatch": 20
+  }
+},
+{
+  "name": "Stone Wall",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 40,
+    "Wood": 20,
+    "Thatch": 10
+  }
+},
+{
+  "name": "Stone Ceiling",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 45,
+    "Wood": 15,
+    "Thatch": 10
+  }
+},
+{
+  "name": "Stone Doorframe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 30,
+    "Wood": 15,
+    "Thatch": 10
+  }
+},
+{
+  "name": "Stone Windowframe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 30,
+    "Wood": 15,
+    "Thatch": 10
+  }
+},
+{
+  "name": "Stone Pillar",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 35,
+    "Wood": 20,
+    "Thatch": 15
+  }
+},
+{
+  "name": "Stone Stairs",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 80,
+    "Wood": 30,
+    "Thatch": 20
+  }
+},
+{
+  "name": "Stone Hatchframe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 45,
+    "Wood": 15,
+    "Thatch": 10
+  }
+},
+{
+  "name": "Reinforced Trapdoor",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 30,
+    "Wood": 15,
+    "Metal Ingot": 5
+  }
+},
+{
+  "name": "Stone Gateway (Large)",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 450,
+    "Wood": 225,
+    "Thatch": 150
+  }
+},
+{
+  "name": "Stone Gate (Large)",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Stone": 250,
+    "Wood": 120,
+    "Thatch": 80
+  }
+},
+{
+  "name": "Greenhouse Foundation",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Crystal": 25,
+    "Metal Ingot": 15,
+    "Cementing Paste": 10
+  }
+},
+{
+  "name": "Greenhouse Wall",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Crystal": 15,
+    "Metal Ingot": 10,
+    "Cementing Paste": 5
+  }
+},
+{
+  "name": "Greenhouse Ceiling",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Crystal": 20,
+    "Metal Ingot": 12,
+    "Cementing Paste": 7
+  }
+},
+{
+  "name": "Greenhouse Doorframe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Crystal": 12,
+    "Metal Ingot": 8,
+    "Cementing Paste": 4
+  }
+},
+{
+  "name": "Greenhouse Windowframe",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Crystal": 12,
+    "Metal Ingot": 8,
+    "Cementing Paste": 4
+  }
+},
+{
+  "name": "Tek Generator",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 2500,
+    "Crystal": 400,
+    "Polymer": 250,
+    "Element": 100,
+    "Black Pearl": 50
+  }
+},
+{
+  "name": "Tek Replicator",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 5000,
+    "Crystal": 1000,
+    "Polymer": 600,
+    "Element": 100,
+    "Black Pearl": 400
+  }
+},
+{
+  "name": "Tek Translocator",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 1200,
+    "Crystal": 300,
+    "Polymer": 200,
+    "Element": 40,
+    "Black Pearl": 50
+  }
+},
+{
+  "name": "Tek Teleporter",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 5000,
+    "Crystal": 2000,
+    "Polymer": 600,
+    "Element": 100,
+    "Black Pearl": 400
+  }
+},
+{
+  "name": "Tek Shield Generator",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 1500,
+    "Polymer": 300,
+    "Crystal": 250,
+    "Element": 50,
+    "Black Pearl": 50
+  }
+},
+{
+  "name": "Tek Foundation",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 120,
+    "Polymer": 20,
+    "Crystal": 15,
+    "Element": 2
+  }
+},
+{
+  "name": "Tek Wall",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 50,
+    "Polymer": 10,
+    "Crystal": 8,
+    "Element": 1
+  }
+},
+{
+  "name": "Tek Ceiling",
+  "category": "Strukturen",
+  "baseRecipe": {
+    "Metal Ingot": 50,
+    "Polymer": 10,
+    "Crystal": 8,
+    "Element": 1
+  }
+}
